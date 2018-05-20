@@ -80,7 +80,7 @@ $ docker run 421p/percentage find-perfect 3 1500
 ```sh
 $ docker run 421p/percentage find-perfect -l4 3 1500
 
-┃+----------+----------+---------+
++----------+----------+---------+
 |    Calculation for tax: 3%    |
 +----------+----------+---------+
 |   NET    |  GROSS   |   FEE   |
