@@ -3,6 +3,7 @@
     "description": "Helper for fee calculation",
     "type": "project",
     "license": "MIT",
+    "version": "0.1",
     "authors": [
         {
             "name": "Andrii Bakal",
